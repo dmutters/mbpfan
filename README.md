@@ -77,6 +77,10 @@ This section reports the iMac/Mac-mini models where mbpfan was tested successful
 - Mac Mini 5,3 (Core i7 2.0 - Linux 4.4.0 elementary/Ubuntu)
 - Mac Mini 6,1 (Core i7 2.3 - Linux 4.7.3-4-ck Archlinux)
 
+## Tested Mac Pro Models
+
+- Mac Pro 3,1 (Early 2008 model, dual Intel Xeon E5462 - Linux 4.4.0-93 Ubuntu Server 16.04)
+
 ## Requirements
 
 Be sure to load the kernel modules **applesmc** and **coretemp**.
